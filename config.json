@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepalidate",
+        "uuid": 10327664,
+        "checksum": "ugr3zc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
